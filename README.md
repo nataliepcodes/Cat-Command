@@ -1,6 +1,6 @@
 # cat command
 
-Create a program called my_cat replicating the cat command.\
+Create a program called my_cat replicating the cat command.
 
 The program should read the content of each file that is received as an argument to your software.\
 Example:
